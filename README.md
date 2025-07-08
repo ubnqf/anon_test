@@ -1,2 +1,2 @@
 # anon_test
-TBA
+This is a test repository for anonymous GitHub.
